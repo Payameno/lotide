@@ -21,3 +21,5 @@ const countLetters = function (sntc) {
 }
 
 console.log(countLetters("lighthouse in the house"));
+
+module.exports = countLetters;

@@ -25,3 +25,5 @@ const without = function(words, remove) {
   }
   return words;
 };
+
+module.exports = without;
