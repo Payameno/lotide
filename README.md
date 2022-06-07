@@ -12,11 +12,11 @@ This project was created and published by me as part of my learnings at Lighthou
 
 **Install it:**
 
-`npm install @username/lotide`
+`npm install @beigi.payam/lotide`
 
 **Require it:**
 
-`const _ = require('@username/lotide');`
+`const _ = require('@beigi.payam/lotide');`
 
 **Call it:**
 
@@ -26,9 +26,7 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-* `function1(assertArraysEqual)`: Assertion function to compare two arrays to be equal
 * `function2(assertEqual)`: Assertion for equality of basic data types
-* `function3(assertObjectsEqual)`: Assertion for equality of two objects
 * `function1(countLetters)`: Counts the number of times a character is used in a string
 * `function2(countOnly)`: Counts the number of times an item is repeated in an array
 * `function3(eqArrays)`: Comapres two arrays to be equal
